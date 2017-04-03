@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Roboto-Bold";
+    src: url("Roboto-Bold.ttf");
+}
+
+#container {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    line-height: 500px;
+    background: green;
+}
+
+#counter {
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    
+    color: white;
+    font-size: 170px;
+    font-family: "Roboto-Bold";
+}
