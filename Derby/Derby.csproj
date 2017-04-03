@@ -47,7 +47,6 @@
   <ItemGroup>
     <Compile Include="Derby.cs" />
     <Compile Include="DerbyGame.cs" />
-    <Compile Include="EntityDecoration.cs" />
     <Compile Include="OpticalStuff.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RadioSkip.cs" />
